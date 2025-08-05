@@ -25,21 +25,21 @@
     </keybind>
     <keybind key="C-W-Left">
       <action name="Execute">
-        <command>/home/user/orix11.sh left</command>
+        <command>/home/user/scripts/orix11.sh left</command>
       </action>
     </keybind>
     <keybind key="C-W-Right">
       <action name="Execute">
-        <command>/home/user/orix11.sh right</command>
+        <command>/home/user/scripts/orix11.sh right</command>
       </action>
     </keybind>
     <keybind key="C-W-Up">
       <action name="Execute">
-        <command>/home/user/orix11.sh normal</command>
+        <command>/home/user/scripts/orix11.sh normal</command>
       </action>
     </keybind>
     <keybind key="C-W-Down">
       <action name="Execute">
-        <command>/home/user/orix11.sh inverted</command>
+        <command>/home/user/scripts/orix11.sh inverted</command>
       </action>
     </keybind>
