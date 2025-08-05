@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Reboot
+Name=Reboot
+Exec=lxterminal -e /home/user/scripts/reboot.sh
+Type=Application
+Icon=/home/user/icons/reboot.png
+Terminal=true

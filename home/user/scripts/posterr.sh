@@ -1,7 +1,7 @@
 #!/bin/sh
 # posterr full screen script
 chromium-browser \
-  https://posterr.nesretep.net \
+  http://localhost:9876 \
   --autoplay-policy=no-user-gesture-required \
   --disable-component-update \
   --disable-composited-antialiasing \

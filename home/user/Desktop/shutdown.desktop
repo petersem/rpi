@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Shutdown computer
+Name=shutdown
+Exec=lxterminal -e /home/user/scripts/shutdown.sh
+Type=Application
+Icon=/home/user/icons/shutdown.png
+Terminal=true
