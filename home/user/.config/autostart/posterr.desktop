@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Start Posterr
+Terminal=true
+Name=Posterr
+Exec=lxterminal -e /home/user/scripts/posterr.sh
+Type=Application
+Icon=/home/user/icons/posterr.png

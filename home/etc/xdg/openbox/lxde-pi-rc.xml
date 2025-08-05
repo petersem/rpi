@@ -1,0 +1,45 @@
+    <!-- My custom Keyboard Shortcuts -->
+    <keybind key="C-W-t">
+      <action name="Execute">
+        <command>lxterminal</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-s">
+      <action name="Execute">
+        <command>poweroff</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-r">
+      <action name="Execute">
+        <command>reboot</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-c">
+      <action name="Close">
+      </action>
+    </keybind>
+    <keybind key="C-W-p">
+      <action name="Execute">
+        <command>scrot</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-Left">
+      <action name="Execute">
+        <command>/home/user/orix11.sh left</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-Right">
+      <action name="Execute">
+        <command>/home/user/orix11.sh right</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-Up">
+      <action name="Execute">
+        <command>/home/user/orix11.sh normal</command>
+      </action>
+    </keybind>
+    <keybind key="C-W-Down">
+      <action name="Execute">
+        <command>/home/user/orix11.sh inverted</command>
+      </action>
+    </keybind>
