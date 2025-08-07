@@ -32,3 +32,7 @@ TBA
 # Configuration 
 - VNC enabled
 - X11 set in advanced settings, rather than wayland. `sudo raspi-config`
+
+# Notes
+> I user TigerVNC on Ubuntu desktop to remote into the Pi running RealVNC.
+> Remote sessions would fail until i set ```options - compresession - preferred encoding - hextile``` in the TigerVNC app. 
